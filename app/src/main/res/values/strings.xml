@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Save login CheckBox</string>
+    <string name="storage_location">Хранить логин во внешнем хранилище</string>
+</resources>
